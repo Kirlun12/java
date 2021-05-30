@@ -1,0 +1,14 @@
+public class Climber {
+private int max_height;
+private int difference3_step;
+private int length;
+
+public int getMax_height() {
+return max_height;
+public void setMax_height(int max_height) {
+this.max_height = max_height;
+}
+public int getDifference3_step() {
+return difference3_step;
+}
+}
